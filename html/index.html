@@ -8,6 +8,23 @@
 	<link rel="stylesheet" type="text/css" href="../bower_components/bootstrap/dist/css/bootstrap.min.css">
 </head>
 <body>
-	<h1>Cirklarna</h1>
+	<div id="container-fluid" data-ng-app="CirklarnaApp">
+		<h1>Cirklarna</h1>
+
+		<div id="nav">
+			<ul>
+				<li>Home</li>
+				<li>Props</li>
+				<li>Performers</li>
+				<li>Events</li>
+				<li>Contact</li>
+			<ul>
+		</div>
+
+		<div data-ng-controller="HomeController">
+			<div my-home></div>
+		</div>
+
+	</div>
 </body>
 </html>
