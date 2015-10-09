@@ -1,0 +1,17 @@
+{"props" : [
+	{"propName" : "Poi",
+	 "description" : "",
+	 "performers" : "George Gough, Scott Edwards, Cristian Negroni" },
+	
+	{"propName" : "Hula Hoop",
+	 "description" : "",
+	 "performers" : "Kristina Robinson, Benjamin Berry" },
+	 
+	{"propName" : "Staff",
+     "description" : "",
+	 "performers" : "Jordan Cook" },
+	 
+	{"propName" : "Gloves",
+	 "description" : "",
+	 "performers" : "George Gough, Jordan Cook" }
+]}
